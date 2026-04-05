@@ -1,0 +1,12 @@
+1. when account create password view and hide option enable 
+2. home page must be footer enable
+3. why registration failed solve it
+4. every user and solver have to profile image,her role in top 
+5.create account successfuly but when login user or solver account information when give but can't login,
+done
+
+6. when proposal submit button click then proposal submit but user dashboard not show, solver bits, give user and solver conversation privately , 
+7. user and solver dashboard editable her information img profile upload optioon include
+8. her post problem edit and delete option enable
+
+9. white mode have to like before, dark mode enable
